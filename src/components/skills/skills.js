@@ -32,13 +32,13 @@ const Skills = () => {
                     <p>This is a demo tex</p>
                 </div>
             </div>
-            <div className="skillBar">
+            {/* <div className="skillBar">
                 <img src={AppDesign} alt="AppDesign" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>App Design</h2>
                     <p>This is a demo tex</p>
                 </div>
-            </div>
+            </div> */}
         </div>
       </section>
     </div>
